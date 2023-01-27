@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Foozer
 - 👀 I’m interested in Networks
-- 🌱 I’m currently learning web dev using The Odin Project
 - 📫 How to reach me @chubblywarner on Twitter
 
 <!---
